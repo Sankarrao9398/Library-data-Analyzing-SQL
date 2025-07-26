@@ -88,6 +88,6 @@ Expand dataset for real-world testing
 Integrate with a Flask web app or Streamlit dashboard
 
 👨‍💻 Author
-Developed by: [Your Name]
+Developed by: [K.Sankar Rao]
 Purpose: Educational / Learning Project
 
